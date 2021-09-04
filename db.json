@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "voteCount": 0,
+      "id": 476307,
+      "video": false,
+      "voteAverage": 0,
+      "title": "The Unique Lama",
+      "popularity": 1,
+      "posterPath": "../images/The_Unique_Lama.jpg",
+      "originalLanguage": "zh",
+      "originalTitle": "Da la ma",
+      "adult": false,
+      "overview": "The Unique Lama is a 1978 Wuxia film from Taiwan",
+      "releaseDate": "1978-09-15"
+    },
+    {
+      "voteCount": 74,
+      "id": 27621,
+      "video": false,
+      "voteAverage": 5,
+      "title": "The Cheetah Girls: One World",
+      "popularity": 5.000945,
+      "posterPath": "../images/The_Cheetah_Girls.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie.But when there they discover that they will have to compete against each other to get the role in the movie. Will the Cheetah's break up again?",
+      "adult": false,
+      "overview": "Chanel",
+      "releaseDate": "2008-08-22"
+    },
+    {
+      "voteCount": 0,
+      "id": 142109,
+      "video": false,
+      "voteAverage": 0,
+      "title": "Unique 8",
+      "popularity": 1.007201,
+      "posterPath": "/images/Unique_8.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "Unique 8",
+      "adult": false,
+      "overview": "We are back with our new 2012 snowboard film release, UNIQUE 8!",
+      "releaseDate": "2012-01-01"
+    },
+    {
+      "voteCount": 0,
+      "id": 444143,
+      "video": false,
+      "voteAverage": 0,
+      "title": "A Unique Movie",
+      "popularity": 2.474547,
+      "posterPath": "../images/A_Unique_Movie.jpg",
+      "originalLanguage": "ko",
+      "originalTitle": "특이점이 온 영화",
+      "adult": false,
+      "overview": "Ep.01 My wife's healing  Yumi and Hyun-tae are on a journey of reconciliation overnight to overcome bourgeoisie. Eating dinner together I'm going to join the couple who stayed in the next room.",
+      "releaseDate": "2017-03-07"
+    }
+  ],
+  "favourites": [
+    {
+      "voteCount": 0,
+      "id": 476307,
+      "video": false,
+      "voteAverage": 0,
+      "title": "The Unique Lama",
+      "popularity": 1,
+      "posterPath": "../images/The_Unique_Lama.jpg",
+      "originalLanguage": "zh",
+      "originalTitle": "Da la ma",
+      "adult": false,
+      "overview": "The Unique Lama is a 1978 Wuxia film from Taiwan",
+      "releaseDate": "1978-09-15"
+    },
+    {
+      "voteCount": 74,
+      "id": 27621,
+      "video": false,
+      "voteAverage": 5,
+      "title": "The Cheetah Girls: One World",
+      "popularity": 5.000945,
+      "posterPath": "../images/The_Cheetah_Girls.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie.But when there they discover that they will have to compete against each other to get the role in the movie. Will the Cheetah's break up again?",
+      "adult": false,
+      "overview": "Chanel",
+      "releaseDate": "2008-08-22"
+    },
+    {
+      "voteCount": 0,
+      "id": 142109,
+      "video": false,
+      "voteAverage": 0,
+      "title": "Unique 8",
+      "popularity": 1.007201,
+      "posterPath": "/images/Unique_8.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "Unique 8",
+      "adult": false,
+      "overview": "We are back with our new 2012 snowboard film release, UNIQUE 8!",
+      "releaseDate": "2012-01-01"
+    }
+  ]
+}
